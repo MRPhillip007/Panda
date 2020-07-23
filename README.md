@@ -1,2 +1,4 @@
 # Panda
-Programm to download music
+__________________________________________________________________
+A program to automate the download of music from imusic.i.wiki site
+
